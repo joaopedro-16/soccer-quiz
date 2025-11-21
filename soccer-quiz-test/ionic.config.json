@@ -1,0 +1,7 @@
+{
+  "name": "soccer-quiz-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
