@@ -35,7 +35,7 @@ const Profile: React.FC = () => {
             <div className="input-group">
               <IonLabel>Email</IonLabel>
               <div className="fake-input">
-                <span>icaro@dias.com</span>
+                <span>joao@email.com</span>
                 <IonIcon icon={createOutline} />
               </div>
             </div>
